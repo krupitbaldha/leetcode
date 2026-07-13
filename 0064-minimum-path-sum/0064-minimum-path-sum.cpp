@@ -14,10 +14,10 @@ public:
         int up = f(i-1, j, grid, dp);
         int left = f(i, j-1, grid, dp);
 
-        int top = (up == INT_MAX) ? INT_MAX : grid[i][j] + up;
-        int lft = (left == INT_MAX) ? INT_MAX : grid[i][j] + left;
+        if(i>0) up =  grid[i][j] + up;
+        if(j>0)  left =  grid[i][j] + left;
 
-        return dp[i][j] = min(top, lft);
+        return dp[i][j] = min(up, left);
     }
 
     int minPathSum(vector<vector<int>>& grid) {
