@@ -1,24 +1,21 @@
 class Solution {
 public:
-    const int INF = 1e9;
+    int minimumTotal(vector<vector<int>>& tri) {
+        int n = tri.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-    int f(int i, int j, vector<vector<int>>& triangle, vector<vector<int>>& dp) {
-        if (i == triangle.size() - 1)
-            return triangle[i][j];
+        for (int j = 0; j < n; j++) {
+            dp[n-1][j] = tri[n-1][j];
+        }
 
-        if (dp[i][j] != INF)
-            return dp[i][j];
+        for (int i = n-2; i >= 0; i--) {
+            for (int j = 0; j <= i; j++) {
+                int down = tri[i][j] + dp[i+1][j];
+                int diag = tri[i][j] + dp[i+1][j+1];
+                dp[i][j] = min(down, diag);
+            }
+        }
 
-        int down = triangle[i][j] + f(i + 1, j, triangle, dp);
-        int diagonal = triangle[i][j] + f(i + 1, j + 1, triangle, dp);
-
-        return dp[i][j] = min(down, diagonal);
-    }
-
-    int minimumTotal(vector<vector<int>>& triangle) {
-        int n = triangle.size();
-        vector<vector<int>> dp(n, vector<int>(n, INF));
-
-        return f(0, 0, triangle, dp);
+        return dp[0][0];
     }
 };
