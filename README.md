@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/krupitbaldha/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/krupitbaldha/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krupitbaldha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/krupitbaldha/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/krupitbaldha/leetcode/tree/master/0322-coin-change) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/krupitbaldha/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krupitbaldha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/krupitbaldha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/krupitbaldha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
