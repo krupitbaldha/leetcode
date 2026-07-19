@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/krupitbaldha/leetcode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/krupitbaldha/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/krupitbaldha/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/krupitbaldha/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krupitbaldha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/krupitbaldha/leetcode/tree/master/0120-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krupitbaldha/leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krupitbaldha/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krupitbaldha/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krupitbaldha/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krupitbaldha/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krupitbaldha/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
