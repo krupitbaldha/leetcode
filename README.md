@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/krupitbaldha/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/krupitbaldha/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krupitbaldha/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/krupitbaldha/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krupitbaldha/leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/krupitbaldha/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
