@@ -9,7 +9,7 @@ public:
         int mini = INT_MAX;
 
         for (int idx = i; idx <= j; idx++) {
-            int cost = cuts[j + 1] - cuts[i - 1]
+            int cost = (cuts[j + 1] - cuts[i - 1])
                      + f(i, idx - 1, cuts, dp)
                      + f(idx + 1, j, cuts, dp);
 
@@ -20,14 +20,14 @@ public:
     }
 
     int minCost(int n, vector<int>& cuts) {
-
-        sort(cuts.begin(), cuts.end());  
-        int c = cuts.size();
+        sort(cuts.begin(), cuts.end());
 
         cuts.insert(cuts.begin(), 0);
         cuts.push_back(n);
 
-        vector<vector<int>> dp(c + 1, vector<int>(c + 1, -1));
+        int c = cuts.size() - 2;
+
+        vector<vector<int>> dp(c + 2, vector<int>(c + 2, -1));
 
         return f(1, c, cuts, dp);
     }
