@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krupitbaldha/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/krupitbaldha/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/krupitbaldha/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/krupitbaldha/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/krupitbaldha/leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krupitbaldha/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krupitbaldha/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krupitbaldha/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/krupitbaldha/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/krupitbaldha/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/krupitbaldha/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/krupitbaldha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/krupitbaldha/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/krupitbaldha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krupitbaldha/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krupitbaldha/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
