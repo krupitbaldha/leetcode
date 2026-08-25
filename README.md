@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krupitbaldha/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/krupitbaldha/leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krupitbaldha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/krupitbaldha/leetcode/tree/master/0860-lemonade-change) |
 | [1043-partition-array-for-maximum-sum](https://github.com/krupitbaldha/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/krupitbaldha/leetcode/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/krupitbaldha/leetcode/tree/master/1260-shift-2d-grid) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/krupitbaldha/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupitbaldha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krupitbaldha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/krupitbaldha/leetcode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krupitbaldha/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/krupitbaldha/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krupitbaldha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
