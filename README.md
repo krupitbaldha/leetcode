@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/krupitbaldha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krupitbaldha/leetcode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/krupitbaldha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krupitbaldha/leetcode/tree/master/0070-climbing-stairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/krupitbaldha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krupitbaldha/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/krupitbaldha/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krupitbaldha/leetcode/tree/master/0115-distinct-subsequences) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/krupitbaldha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krupitbaldha/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/krupitbaldha/leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/krupitbaldha/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
